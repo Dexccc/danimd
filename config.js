@@ -5,7 +5,7 @@ const chalk = require('chalk')
 // Other
 global.owner = ['6283853090321','6283853090321','6283853090321','6283853090321','6283853090321']
 global.premium = ['6283853090321']
-global.packname = 'Bnzet'
+global.packname = 'tebece'
 global.author = 'WhatsApp Bot'
 global.sessionName = 'bnzet'
 global.prefa = ['','!','.','🐦','🐤','🗿']
