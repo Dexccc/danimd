@@ -3,8 +3,8 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 // Other
-global.owner = ['6283853090321','6283853090321','6283853090321','6283853090321','6283853090321']
-global.premium = ['6283853090321']
+global.owner = ['6281363266055','6281363266055','6281363266055','6281363266055','6281363266055']
+global.premium = ['6281363266055']
 global.packname = 'Bnzet'
 global.author = 'WhatsApp Bot'
 global.sessionName = 'memek'
